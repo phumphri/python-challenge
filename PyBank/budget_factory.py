@@ -94,9 +94,9 @@ def process_rows(csv_reader, budget_model):
     for row in csv_reader:
 
         # Unit Testing
-        i = i + 1
-        if i > 4:
-            break
+        # i = i + 1
+        # if i > 4:
+        #     break
 
         date_string = str(row[date_column])
 
