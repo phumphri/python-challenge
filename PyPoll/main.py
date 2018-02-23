@@ -18,7 +18,6 @@ Your task is to create a Python script that analyzes the votes and calculates ea
 •	The total number of votes each candidate won
 •	The winner of the election based on popular vote.
 
-
 """
 import election_processor
 

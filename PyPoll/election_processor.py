@@ -4,6 +4,7 @@ Author:  Patrick Humphries
 Orgainization:  USC Viterbi Analytics Bootcamp, 1/30
 Output:  Election Results are written to screen and text file.
 Methods:  run()
+
 Description:
     1.  Read the input csv files.
     2.  Build a election model with aggregated votes by candidate.
