@@ -2,8 +2,10 @@
 Module:  budgetModel.py
 Author:  Patrick Humphries
 Organization:  USC Viterbi Analytics Boot Camp, January 30, 2018
+
 Description:  Provide a budget model which provides aggregated values from
     multiple csv files.
+    
 Assumptions:
     1. Input files will be regular CSV files.
     2. First row will be a header.

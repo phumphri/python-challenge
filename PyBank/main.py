@@ -16,7 +16,6 @@ Your task is to create a Python script that analyzes the records to calculate ea
 •	The average change in revenue between months over the entire period
 •	The greatest increase in revenue (date and amount) over the entire period
 •	The greatest decrease in revenue (date and amount) over the entire period
-
 """
 import budget_processor
 

@@ -5,6 +5,7 @@ Orgainization:  USC Viterbi Analytics Bootcamp, 1/30
 Input:  Type Boolean.  If True, budget model is written to screen and csv file.
 Output:  Financial Analysis written to screen and text file.
 Methods:  run(debug)
+
 Description:
     1.  Read the input csv files.
     2.  Build a budget model with aggregated revenue by month.
